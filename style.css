@@ -1,0 +1,30 @@
+body
+{
+background-color: #000;
+}
+h3
+{
+font-weight: bold;
+font-size: 20px;
+color: #F00;
+}
+p
+{
+color: #00F;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+    color: #F00;
+    border: 1px;
+    border-radius: 5px;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    background-color: #00F;
+    border: 1px solid white;
+    border-radius: 5px;
+}
