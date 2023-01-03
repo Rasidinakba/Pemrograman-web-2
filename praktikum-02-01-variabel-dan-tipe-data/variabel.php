@@ -9,7 +9,7 @@ echo "<p>Hai, perkenalkan nama saya adalah ".$nama.", dan saya berusia
 /**
 * Ini adalah variabel dengan nilai yang diubah
 */
-$nama = Rasidin Rajasa Putra Rama;
+$nama = Rasidin;
 $usia = 20;
 echo "<p>Hai, perkenalkan nama saya adalah ".$nama.", dan saya berusia
 ".$usia." tahun<p>";
